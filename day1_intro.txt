@@ -48,6 +48,6 @@ d) Manual workflows
 
 💬 End-of-Day Reflection 💥📚
 ===============================
-"""
+""" 
     I was worried that AI would replace humans in the upcoming time, but after reading the AI-Driven Development book, I realized that AI will not replace humans because the human mind is stronger than AI, so if the human thinks strongly about any  software or wants to solve any problem, they just need to think strongly and document their idea and then write a clear structure and give it to the AI so that the AI can write, decide and debug the code only using human guidance.
 """
